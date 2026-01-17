@@ -1,0 +1,60 @@
+{
+  "linkedin_url": "https://www.linkedin.com/in/williamhgates/",
+  "name": "Bill Gates",
+  "location": "Seattle, Washington, United States",
+  "about": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+  "open_to_work": false,
+  "experiences": [
+    {
+      "position_title": "Co-chair",
+      "institution_name": "Gates Foundation",
+      "linkedin_url": "https://www.linkedin.com/company/8736/",
+      "from_date": "2000",
+      "to_date": "Present",
+      "duration": "26 yrs 1 mo",
+      "location": "",
+      "description": null
+    },
+    {
+      "position_title": "Founder",
+      "institution_name": "Breakthrough Energy",
+      "linkedin_url": "https://www.linkedin.com/company/19141006/",
+      "from_date": "2015",
+      "to_date": "Present",
+      "duration": "11 yrs 1 mo",
+      "location": "",
+      "description": null
+    },
+    {
+      "position_title": "Co-founder",
+      "institution_name": "Microsoft",
+      "linkedin_url": "https://www.linkedin.com/company/1035/",
+      "from_date": "1975",
+      "to_date": "Present",
+      "duration": "51 yrs 1 mo",
+      "location": "",
+      "description": null
+    }
+  ],
+  "educations": [
+    {
+      "institution_name": "Harvard University",
+      "degree": null,
+      "linkedin_url": "https://www.linkedin.com/company/1646/",
+      "from_date": "1973",
+      "to_date": "1975",
+      "description": null
+    },
+    {
+      "institution_name": "Lakeside School",
+      "degree": null,
+      "linkedin_url": "https://www.linkedin.com/company/30288/",
+      "from_date": null,
+      "to_date": null,
+      "description": null
+    }
+  ],
+  "interests": [],
+  "accomplishments": [],
+  "contacts": []
+}

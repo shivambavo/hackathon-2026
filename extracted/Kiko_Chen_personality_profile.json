@@ -1,0 +1,153 @@
+{
+  "person_name": "Kiko Chen",
+  "scraped_at": "2026-01-17T03:12:35.829632",
+  "profile_data": {
+    "linkedin_url": "https://www.linkedin.com/in/kikotchen/",
+    "name": "Kiko Chen",
+    "location": "Toronto, Ontario, Canada",
+    "about": null,
+    "open_to_work": false,
+    "experiences": [
+      {
+        "position_title": "Autonomy Simulation Developer",
+        "institution_name": "UTFR - University of Toronto Formula Racing",
+        "linkedin_url": "https://www.linkedin.com/company/10928785/",
+        "from_date": "Jul 2025",
+        "to_date": "Present",
+        "duration": "7 mos",
+        "location": "Toronto, Ontario, Canada",
+        "description": "Skills: Robot Operating System (ROS) · Unity · Docker · Linux · Python (Programming Language) · Git\nSkills: Robot Operating System (ROS) · Unity · Docker · Linux · Python (Programming Language) · Git"
+      },
+      {
+        "position_title": "Interim Editor",
+        "institution_name": "Results Advertising · Internship",
+        "linkedin_url": "https://www.linkedin.com/company/19031963/",
+        "from_date": "Aug 2021",
+        "to_date": "Sep 2021",
+        "duration": "2 mos",
+        "location": "Toronto, Ontario, Canada · On-site",
+        "description": "Edited 10 videos over 3 weeks for companies like Tridel, Plazacorp, and Cornerstone\nEdited 10 videos over 3 weeks for companies like Tridel, Plazacorp, and Cornerstone\nSkills: Marketing · Video Editing\nSkills: Marketing · Video Editing"
+      }
+    ],
+    "educations": [
+      {
+        "institution_name": "University of Toronto",
+        "degree": "HBSc, Computer Science Specialist",
+        "linkedin_url": "https://www.linkedin.com/company/3660/",
+        "from_date": "2024",
+        "to_date": "2028",
+        "description": "Grade: 3.87/4.0\nGrade: 3.87/4.0\nActivities and societies: Arts and Science Internship Program (Co-op)\n\nUniversity of Toronto Formula Racing Team, Recognized Study Group Leader\nActivities and societies: Arts and Science Internship Program (Co-op) University of Toronto Formula Racing Team, Recognized Study Group Leader\nSkills: Python (Programming Language) · Java · R\nSkills: Python (Programming Language) · Java · R"
+      },
+      {
+        "institution_name": "Crescent School",
+        "degree": null,
+        "linkedin_url": "https://www.linkedin.com/company/1038174/",
+        "from_date": "2020",
+        "to_date": "2024",
+        "description": "Grade: 97.2\nGrade: 97.2\nActivities and societies: Yearbook Team Executive, Business Team Executive, DECA, Investment Team Sector Analyst, HOSA, Robotics, Math Club, Track Team, Cross Country Team\nActivities and societies: Yearbook Team Executive, Business Team Executive, DECA, Investment Team Sector Analyst, HOSA, Robotics, Math Club, Track Team, Cross Country Team\nSkills: Java · Python (Programming Language) · Marketing · Photography · Graphic Design · Video Editing\nSkills: Java · Python (Programming Language) · Marketing · Photography · Graphic Design · Video Editing"
+      }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "contacts": []
+  },
+  "personality_traits": {
+    "dominant_traits": [
+      "leadership",
+      "technical",
+      "creative"
+    ],
+    "trait_scores": {
+      "leadership": 14,
+      "technical": 8,
+      "creative": 4,
+      "academic": 4,
+      "entrepreneurial": 2,
+      "analytical": 0,
+      "social": 0,
+      "strategic": 0
+    },
+    "work_style": "Leadership-oriented",
+    "leadership_style": "Strong Leader",
+    "creativity_level": "Highly Creative",
+    "analytical_level": "Intuitive/Creative"
+  },
+  "interests": {
+    "primary_interests": [
+      "technology",
+      "arts",
+      "business"
+    ],
+    "interest_categories": {
+      "technology": 6,
+      "arts": 6,
+      "reading": 2,
+      "business": 4,
+      "education": 2
+    },
+    "passion_indicators": [],
+    "learning_interests": [
+      "study"
+    ]
+  },
+  "hobbies": {
+    "detected_hobbies": [
+      "photography"
+    ],
+    "hobby_categories": {
+      "photography": 4
+    },
+    "recreation_activities": [],
+    "creative_pursuits": [
+      "photography"
+    ]
+  },
+  "communication_style": {
+    "style": "Balanced Professional",
+    "formality_level": "Balanced",
+    "detail_orientation": "Detailed",
+    "emotional_tone": "Balanced",
+    "professional_vs_personal": ""
+  },
+  "values_beliefs": {
+    "core_values": [
+      "growth",
+      "leadership",
+      "creativity"
+    ],
+    "work_values": [
+      "growth",
+      "leadership"
+    ],
+    "personal_values": [
+      "creativity"
+    ],
+    "social_values": []
+  },
+  "social_preferences": {
+    "social_style": "Collaborative",
+    "team_preference": "Team-oriented",
+    "networking_style": "Active Networker",
+    "communication_preference": "Detailed Communicator",
+    "group_size_preference": "Large Groups"
+  },
+  "personality_summary": {
+    "overall_personality": "Leadership personality with leadership-oriented approach",
+    "key_strengths": [
+      "Natural leadership ability",
+      "Creative problem-solving",
+      "Technical expertise"
+    ],
+    "potential_interests": [
+      "technology",
+      "arts",
+      "business"
+    ],
+    "compatibility_notes": [],
+    "conversation_starters": [
+      "Ask about their hobbies: photography",
+      "Discuss interests in technology, arts",
+      "Talk about leadership-oriented work approaches"
+    ]
+  }
+}

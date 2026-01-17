@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "name": "Kiko Chen",
+    "location": "Toronto, Ontario, Canada",
+    "linkedin_url": "https://www.linkedin.com/in/kikotchen/",
+    "open_to_work": false
+  },
+  "career_summary": {
+    "current_title": "Autonomy Simulation Developer",
+    "current_company": "UTFR - University of Toronto Formula Racing",
+    "years_experience": 0,
+    "companies_count": 2,
+    "education_level": "Other",
+    "skills_count": 2
+  },
+  "experience_analysis": {
+    "total_positions": 2,
+    "current_position": {
+      "position_title": "Autonomy Simulation Developer",
+      "institution_name": "UTFR - University of Toronto Formula Racing",
+      "linkedin_url": "https://www.linkedin.com/company/10928785/",
+      "from_date": "Jul 2025",
+      "to_date": "Present",
+      "duration": "7 mos",
+      "location": "Toronto, Ontario, Canada",
+      "description": "Skills: Robot Operating System (ROS) · Unity · Docker · Linux · Python (Programming Language) · Git\nSkills: Robot Operating System (ROS) · Unity · Docker · Linux · Python (Programming Language) · Git"
+    },
+    "career_progression": [],
+    "companies_worked": [
+      "Results Advertising · Internship",
+      "UTFR - University of Toronto Formula Racing"
+    ],
+    "total_experience_years": 0,
+    "skills_mentioned": [
+      "Python",
+      "Marketing"
+    ],
+    "industries": []
+  },
+  "education_analysis": {
+    "total_institutions": 2,
+    "institutions": [
+      "University of Toronto",
+      "Crescent School"
+    ],
+    "degrees": [
+      "HBSc, Computer Science Specialist"
+    ],
+    "education_span": {},
+    "academic_achievements": []
+  },
+  "insights": {
+    "career_trajectory": "Early/mid-career professional",
+    "industry_focus": [
+      "Education",
+      "Media"
+    ],
+    "skill_categories": {
+      "Programming": [
+        "Python"
+      ],
+      "Business": [
+        "Marketing"
+      ]
+    },
+    "network_indicators": {
+      "has_contacts": false,
+      "has_interests": false,
+      "has_accomplishments": false
+    }
+  },
+  "about_summary": null,
+  "interests": [],
+  "contacts_count": 0,
+  "accomplishments_count": 0,
+  "metadata": {
+    "scraped_at": "2026-01-17T02:49:21.104082",
+    "source": "linkedin_intelligence_analysis",
+    "data_completeness": {
+      "has_about": false,
+      "has_experiences": true,
+      "has_education": true,
+      "has_interests": false,
+      "has_contacts": false,
+      "has_accomplishments": false,
+      "experience_count": 2,
+      "education_count": 2,
+      "completeness_score": 33.33333333333333
+    }
+  }
+}

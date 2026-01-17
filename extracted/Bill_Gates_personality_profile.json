@@ -1,0 +1,154 @@
+{
+  "person_name": "Bill Gates",
+  "scraped_at": "2026-01-17T03:07:24.811086",
+  "profile_data": {
+    "linkedin_url": "https://www.linkedin.com/in/williamhgates/",
+    "name": "Bill Gates",
+    "location": "Seattle, Washington, United States",
+    "about": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "open_to_work": false,
+    "experiences": [
+      {
+        "position_title": "Co-chair",
+        "institution_name": "Gates Foundation",
+        "linkedin_url": "https://www.linkedin.com/company/8736/",
+        "from_date": "2000",
+        "to_date": "Present",
+        "duration": "26 yrs 1 mo",
+        "location": "",
+        "description": null
+      },
+      {
+        "position_title": "Founder",
+        "institution_name": "Breakthrough Energy",
+        "linkedin_url": "https://www.linkedin.com/company/19141006/",
+        "from_date": "2015",
+        "to_date": "Present",
+        "duration": "11 yrs 1 mo",
+        "location": "",
+        "description": null
+      },
+      {
+        "position_title": "Co-founder",
+        "institution_name": "Microsoft",
+        "linkedin_url": "https://www.linkedin.com/company/1035/",
+        "from_date": "1975",
+        "to_date": "Present",
+        "duration": "51 yrs 1 mo",
+        "location": "",
+        "description": null
+      }
+    ],
+    "educations": [
+      {
+        "institution_name": "Harvard University",
+        "degree": null,
+        "linkedin_url": "https://www.linkedin.com/company/1646/",
+        "from_date": "1973",
+        "to_date": "1975",
+        "description": null
+      },
+      {
+        "institution_name": "Lakeside School",
+        "degree": null,
+        "linkedin_url": "https://www.linkedin.com/company/30288/",
+        "from_date": null,
+        "to_date": null,
+        "description": null
+      }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "contacts": []
+  },
+  "personality_traits": {
+    "dominant_traits": [
+      "entrepreneurial"
+    ],
+    "trait_scores": {
+      "entrepreneurial": 4,
+      "analytical": 0,
+      "creative": 0,
+      "leadership": 0,
+      "technical": 0,
+      "social": 0,
+      "academic": 0,
+      "strategic": 0
+    },
+    "work_style": "Balanced",
+    "leadership_style": "Individual Contributor",
+    "creativity_level": "Analytical/Structured",
+    "analytical_level": "Intuitive/Creative"
+  },
+  "interests": {
+    "primary_interests": [
+      "technology",
+      "travel",
+      "reading"
+    ],
+    "interest_categories": {
+      "technology": 2,
+      "travel": 1,
+      "reading": 1
+    },
+    "passion_indicators": [],
+    "learning_interests": []
+  },
+  "hobbies": {
+    "detected_hobbies": [
+      "writing",
+      "reading",
+      "traveling"
+    ],
+    "hobby_categories": {
+      "writing": 1,
+      "reading": 1,
+      "traveling": 1
+    },
+    "recreation_activities": [
+      "traveling"
+    ],
+    "creative_pursuits": [
+      "writing"
+    ]
+  },
+  "communication_style": {
+    "style": "Balanced Professional",
+    "formality_level": "Balanced",
+    "detail_orientation": "Concise",
+    "emotional_tone": "Balanced",
+    "professional_vs_personal": ""
+  },
+  "values_beliefs": {
+    "core_values": [
+      "innovation"
+    ],
+    "work_values": [
+      "innovation"
+    ],
+    "personal_values": [],
+    "social_values": []
+  },
+  "social_preferences": {
+    "social_style": "Independent",
+    "team_preference": "Flexible",
+    "networking_style": "Selective Networker",
+    "communication_preference": "Concise Communicator",
+    "group_size_preference": "Variable"
+  },
+  "personality_summary": {
+    "overall_personality": "Entrepreneurial personality with balanced approach",
+    "key_strengths": [],
+    "potential_interests": [
+      "technology",
+      "travel",
+      "reading"
+    ],
+    "compatibility_notes": [],
+    "conversation_starters": [
+      "Ask about their hobbies: writing, reading",
+      "Discuss interests in technology, travel",
+      "Talk about balanced work approaches"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "person_name": "Bill Gates",
+  "scraped_at": "2026-01-17T02:57:19.161433",
+  "profile_data": {
+    "linkedin_url": "https://www.linkedin.com/in/williamhgates/",
+    "name": "Bill Gates",
+    "location": "Seattle, Washington, United States",
+    "about": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "open_to_work": false,
+    "experiences": [
+      {
+        "position_title": "Co-chair",
+        "institution_name": "Gates Foundation",
+        "linkedin_url": "https://www.linkedin.com/company/8736/",
+        "from_date": "2000",
+        "to_date": "Present",
+        "duration": "26 yrs 1 mo",
+        "location": "",
+        "description": null
+      },
+      {
+        "position_title": "Founder",
+        "institution_name": "Breakthrough Energy",
+        "linkedin_url": "https://www.linkedin.com/company/19141006/",
+        "from_date": "2015",
+        "to_date": "Present",
+        "duration": "11 yrs 1 mo",
+        "location": "",
+        "description": null
+      },
+      {
+        "position_title": "Co-founder",
+        "institution_name": "Microsoft",
+        "linkedin_url": "https://www.linkedin.com/company/1035/",
+        "from_date": "1975",
+        "to_date": "Present",
+        "duration": "51 yrs 1 mo",
+        "location": "",
+        "description": null
+      }
+    ],
+    "educations": [
+      {
+        "institution_name": "Harvard University",
+        "degree": null,
+        "linkedin_url": "https://www.linkedin.com/company/1646/",
+        "from_date": "1973",
+        "to_date": "1975",
+        "description": null
+      },
+      {
+        "institution_name": "Lakeside School",
+        "degree": null,
+        "linkedin_url": "https://www.linkedin.com/company/30288/",
+        "from_date": null,
+        "to_date": null,
+        "description": null
+      }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "contacts": []
+  },
+  "post_analysis": {
+    "profile_completeness": 60.0,
+    "has_about_section": true,
+    "has_experiences": true,
+    "has_education": true,
+    "has_interests": false,
+    "has_accomplishments": false,
+    "has_contacts": false,
+    "experience_count": 3,
+    "education_count": 2,
+    "post_likelihood": "Medium"
+  },
+  "recommendations": [
+    "⚠️  Profile is moderately complete - may have some posts",
+    "✅ About section present - indicates active profile management",
+    "✅ 3 work experiences - suggests active professional",
+    "❌ No interests listed - may be private profile",
+    "❌ No accomplishments - may not be active",
+    "⚠️  No visible contacts - may have privacy settings",
+    "💡 Manual check: Visit profile directly to see posts section",
+    "💡 Manual check: Look for 'Posts' or 'Activity' tab",
+    "💡 Manual check: Check if profile is public or private"
+  ],
+  "manual_checklist": [
+    "📋 MANUAL CHECKLIST:",
+    "1. Visit the LinkedIn profile directly in browser",
+    "2. Look for 'Posts' tab or link in profile navigation",
+    "3. Look for 'Activity' section in profile",
+    "4. Check if profile shows recent updates or posts",
+    "5. Look for 'Articles' section if person writes articles",
+    "6. Check if profile is set to private vs public",
+    "7. Look for engagement metrics (likes, comments) on posts",
+    "8. Check post frequency (daily, weekly, monthly)",
+    "9. Note post topics and content types",
+    "10. Check if posts are original content or shares"
+  ]
+}
