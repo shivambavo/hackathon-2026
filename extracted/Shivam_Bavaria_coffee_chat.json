@@ -1,0 +1,109 @@
+{
+  "person_name": "Shivam Bavaria",
+  "extraction_timestamp": "2026-01-17T12:13:33.093795",
+  "profile_url": "https://www.linkedin.com/in/shivambavaria/",
+  "coffee_chat_analysis": {},
+  "profile": {
+    "linkedin_url": "https://www.linkedin.com/in/shivambavaria/",
+    "name": "Shivam Bavaria",
+    "location": "Canada",
+    "about": null,
+    "open_to_work": false,
+    "experiences": [
+      {
+        "position_title": "Junior Programs Instructor",
+        "institution_name": "Engineering Outreach Office, University of Toronto · Permanent Part-time",
+        "linkedin_url": "https://www.linkedin.com/company/10009353/",
+        "from_date": "Oct 2025",
+        "to_date": "Present",
+        "duration": "4 mos",
+        "location": "On-site",
+        "description": "Work study position affiliated with the University of Toronto Engineering Outreach department, where I designed and instructed engineering and coding workshops for grades 3-8 in a span of the academic year. I worked with a team of instructors delivering engaging and innovative workshops, inspiring curiosity about engineering and encouraging exploration of STEM fields within UofT.\nWork study position affiliated with the University of Toronto Engineering Outreach department, where I designed and instructed engineering and coding workshops for grades 3-8 in a span of the academic year. I worked with a team of instructors delivering engaging and innovative workshops, inspiring curiosity about engineering and encouraging exploration of STEM fields within UofT.\nSkills: Tutoring · Python (Programming Language) · Engineering\nSkills: Tutoring · Python (Programming Language) · Engineering"
+      },
+      {
+        "position_title": "Audio Model Trainer",
+        "institution_name": "Mercor · Contract Part-time",
+        "linkedin_url": "https://www.linkedin.com/company/71301545/",
+        "from_date": "Sep 2025",
+        "to_date": "Present",
+        "duration": "5 mos",
+        "location": "Remote",
+        "description": "Skills: Artificial Intelligence (AI)\nSkills: Artificial Intelligence (AI)"
+      }
+    ],
+    "educations": [
+      {
+        "institution_name": "University of Toronto",
+        "degree": "Bachelor of Science - BS, Computer Science",
+        "linkedin_url": "https://www.linkedin.com/company/3660/",
+        "from_date": "2024",
+        "to_date": "2028",
+        "description": "Skills: Computer Science · Python (Programming Language)\nSkills: Computer Science · Python (Programming Language)"
+      },
+      {
+        "institution_name": "Premier Academy Nairobi",
+        "degree": "High School Diploma",
+        "linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=Premier+Academy+Nairobi+",
+        "from_date": "2019",
+        "to_date": "2024",
+        "description": null
+      }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "contacts": []
+  },
+  "posts": {
+    "posts": [
+      {
+        "index": 0,
+        "full_text": "Feed post number 1\nShivam Bavaria\nShivam Bavaria\n   • 3rd+\nVerified • 3rd+\nComputer Science @ UofT\nComputer Science @ UofT\n3mo • \n \n3 months ago • Visible to anyone on or off LinkedIn\nFollow\nI’m excited to share that I've joined the Engineering Outreach Office, University of Toronto as a Junior Program Instructor!\n\nIn this work-study role, I will be responsible for designing, delivering, and teaching innovative workshops and activities in engineering and computer science throughout the academic year. I look forward to mentoring students, inspiring curiosity about engineering, and encouraging exploration of STEM fields.\n\nI also am eager to work with other instructors and contribute to this impactful program!\n\nhashtag\n#UniversityOfToronto \nhashtag\n#UofT \nhashtag\n#EngineeringOutreach \nhashtag\n#CREATE \nhashtag\n#JrDeep \nhashtag\n#ComputerScience \nhashtag\n#WorkStudy\n…more\nActivate to view larger image,\nActivate to view larger image,\n21\n8 comments\n1 repost\nLike\nComment\nRepost\nSend",
+        "date": "",
+        "engagement": {
+          "likes": 1,
+          "comments": 3,
+          "shares": 0
+        },
+        "topics": [
+          "education",
+          "social_impact"
+        ],
+        "sentiment": "neutral",
+        "conversation_starters": [
+          "Share learning experiences"
+        ]
+      },
+      {
+        "index": 1,
+        "full_text": "Feed post number 2\nShivam Bavaria\nShivam Bavaria\n   • 3rd+\nVerified • 3rd+\nComputer Science @ UofT\nComputer Science @ UofT\n5mo • \n \n5 months ago • Visible to anyone on or off LinkedIn\nFollow\nI am excited to share with you my most recent project — filteredq.com.\n\nThis summer, I wanted to explore what it takes to build a startup — so I decided to turn an idea into reality.\n\nAs a student and tutor, I found it hard to get well-organized, relevant questions for your syllabus. Most question banks are cluttered and don’t use AI to help with your experience. While studying, I saw that practicing weak topics boosted my grades — but there was no tool that solved this problem.\n\nWith the experience I’ve gained from my first year studying Computer Science, I was able to bring this idea to life and finally solve a problem I couldn’t fix back when I was in school.\n\nTools used in the project:\nTypescript\nMain language — most of the application is written in TypeScript\nUsed for: Components, API routes, utilities, hooks, types\n\nJavascript\nUsed for: Configuration files and utility scripts\n\nSQL\nUsed for database migrations and schema definitions\n\nFrontend\nFramework: Next.js 14.2.23 (React-based)\nUI: React components\nRouting: Next.js App Router\n\nCSS/Styling\nFramework: Tailwind CSS\n\nOther Tools\nSupabase for backend, database, and authentication\nStripe API for payment integration\nOpenAI 4o API for generating AI-powered explanations\n\nFrom the pre-beta launch just 2 months ago, the platform has already grown to 1,500 users.\n\nThis project has helped me build a full-stack website from scratch and strengthen my skills in TypeScript, backend design, and product development — experiences I’m excited to keep building on.\n\n🚀 Going forward, I plan to expand the question database and continue developing new features to keep improving the site and helping more students with their revision.\n…more\nActivate to view larger image,\nActivate to view larger image,\n29\n12 comments\n1 repost\nLike\nComment\nRepost\nSend",
+        "date": "",
+        "engagement": {
+          "likes": 2,
+          "comments": 3,
+          "shares": 0
+        },
+        "topics": [
+          "technology",
+          "business",
+          "education"
+        ],
+        "sentiment": "neutral",
+        "conversation_starters": [
+          "Ask about their views on technology trends",
+          "Discuss business challenges and opportunities",
+          "Share learning experiences"
+        ]
+      }
+    ],
+    "total_posts": 2,
+    "conversation_topics": [
+      "education",
+      "social_impact",
+      "technology",
+      "business"
+    ],
+    "content_themes": [
+      "Social impact oriented"
+    ]
+  }
+}
